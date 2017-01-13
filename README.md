@@ -1,2 +1,2 @@
 # Automate-Office365Licensing
-Automate settings Office 365 licenses based on Group membership
+Automate setting Office 365 licenses based on Group membership
